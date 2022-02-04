@@ -1,0 +1,12 @@
+bread and cake=t 3330
+fruit=t 2962
+vegetables=t 2961
+total=low 2948
+milk-cream=t 2939
+
+
+bread and cake=t milk-cream=t 2337
+bread and cake=t fruit=t 2325
+bread and cake=t vegetables=t 2298
+bread and cake=t baking needs=t 2191
+bread and cake=t frozen foods=t 2129
